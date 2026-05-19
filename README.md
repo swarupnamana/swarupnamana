@@ -3,7 +3,7 @@
 <h4 align="center">Columbus, Ohio, USA &nbsp;·&nbsp; CSA · CIS-ITSM Certified &nbsp;·&nbsp; 7+ Years Now Platform</h4>
 
 <p align="center">
-  <a href="https://swarup-namana.netlify.app" target="_blank">
+  <a href="https://swarupnamanaportfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-b8922a?style=for-the-badge&logo=safari&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/swarupnamana" target="_blank">
