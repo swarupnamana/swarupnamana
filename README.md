@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Swarup Kumar Namana 👋</h1>
 <h3 align="center">Senior ServiceNow Developer & Platform Architect</h3>
-<h4 align="center">Columbus, Ohio, USA &nbsp;·&nbsp; CSA · CIS-ITSM Certified &nbsp;·&nbsp; 7+ Years Now Platform</h4>
+<h4 align="center">Columbus, Ohio, USA &nbsp;·&nbsp; CSA · CIS-ITSM · CIS-DF(CMDB&CSDM) Certified &nbsp;·&nbsp; 7+ Years Now Platform</h4>
 
 <p align="center">
   <a href="https://swarupnamanaportfolio.netlify.app/" target="_blank">
